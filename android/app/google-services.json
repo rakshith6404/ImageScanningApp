@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "117685652552",
+    "project_id": "image-scanning-app",
+    "storage_bucket": "image-scanning-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117685652552:android:ac91990995da1b40091c7d",
+        "android_client_info": {
+          "package_name": "com.example.image_scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117685652552-39daisc0g7f42adpqcp21fqv3sfvabpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp-1-W3oXlenxQ1G_17PJEGg1ac4mxsVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117685652552-39daisc0g7f42adpqcp21fqv3sfvabpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
