@@ -336,7 +336,8 @@ class _First_pageState extends State<First_page> {
       'downloadURL': downloadURL,
       'Email': scannedText_email,
       'Phone': scannedText_phone,
-      'Website': scannedText_website
+      'Website': scannedText_website,
+      'Tags' : '',
     });
     // .whenComplete(() => print("Image Uploaded Successful"));
 

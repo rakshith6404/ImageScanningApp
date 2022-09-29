@@ -40,7 +40,7 @@ class _HomeScreenState extends State<HomeScreen> {
     final screens = [
       First_page(userId: loggedInUser.uid),//userId: ,),
       //CardsShow(),
-      History_page(userId: loggedInUser.uid),
+      HistoryPage(userId: loggedInUser.uid),
       profile_page(),
     ];
     return WillPopScope(
